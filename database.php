@@ -2,7 +2,7 @@
 session_start();
 
 $host = 'localhost';
-$dbname = 'bas';
+$dbname = 'bas_2';
 $username = 'root';
 $password = '';
 
