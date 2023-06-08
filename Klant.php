@@ -1,6 +1,6 @@
 <?php
-//Lukas Sliva
-//16/03/2023
+//Nevra Hekimoglu
+//01/06/2023
 
 class Klant {
     //properties
